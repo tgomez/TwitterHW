@@ -33,7 +33,7 @@ api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
 
 ```python
-#Getting tweets and runing vader analysis
+#Getting tweets and running vader analysis
 target_users = ["@BBCWorld", "@CBSNews", "@CNN", "@FoxNews","@nytimes"]
 
 outlets = []
