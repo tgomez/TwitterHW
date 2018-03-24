@@ -3,8 +3,8 @@
 ```python
 # 3 Observations
 # 1- The last 100 tweets for all five news outlets analyzed have an overall negative sentiment.
-# 2- BBCWorld has the most negative score of the five new outlets analyzed.
-# 3- Fox News has the least negative score of the five new outlets analyzed.
+# 2- BBCWorld has the most negative score of the five news outlets analyzed.
+# 3- Fox News has the least negative score of the five news outlets analyzed.
 ```
 
 
