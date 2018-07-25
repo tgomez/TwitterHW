@@ -9,7 +9,10 @@
 <p> Utilized vaderSentiment to analyze sentiment</p>
 <p> Plotted results to visually analyze sentiment</p> 
 
-## Results
+## Observations
+<p> The last 100 tweets for all five news outlets analyzed have an overall negative sentiment. </p>
+<p> BBCWorld has the most negative score of the five new outlets analyzed. </p>
+<p> Fox News has the least negative score of the five new outlets analyzed. </p>
 
 
 
