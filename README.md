@@ -15,6 +15,7 @@
 
 ## Observations
 <p> The last 100 tweets for all five news outlets analyzed have an overall negative sentiment. </p>
+<img src = "TwitterHWBar.png"
 <p> BBCWorld has the most negative score of the five new outlets analyzed. </p>
 <p> Fox News has the least negative score of the five new outlets analyzed. </p>
 
