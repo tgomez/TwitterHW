@@ -1,4 +1,5 @@
 # Twitter Media Sentiment
+< img src = "https://pbs.twimg.com/profile_images/1013798240683266048/zRim1x6M_400x400.jpg">
 ## What?
 <p> Some say that the news is incredibly depressing. To explore this, I thought it would be interesting to run a sentiment analysis on several different news outlets and see if thier sentiment scores vary based on thier tweets on Twitter. 
 </p>
